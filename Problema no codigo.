@@ -1,0 +1,5 @@
+//Importante!!
+
+No segundo codigo, o com leitura de valores, tem um bug de leitura na leitura da primeira matriz, em que ele esta lendo um numero a mais, eu nao descobri o porque.
+Contudo, esse bug nao afeta o o calculo, que deve ser mais importante.
+Outra consideraçao, o "do while" do codigo, pode ser trocado por um "for", tavez fique mais bonito.
